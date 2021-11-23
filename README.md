@@ -1,5 +1,9 @@
 # Image_waterMarking
-1.Loading the image and logo from URL'S
+Adding a watermark to an image works as copyright. Different organizations can use it to make
+thier content secure so that their content cannot be misused without their licence or paid version 
+In this project, we saw how easily we can use openCV  to Add watermarks to out image
+
+1. Loading the image and logo from URL'S
 2. Resizing the images 
 3. Convert Images into RGB format and then convert it into numpy array.
 4. Storing the hight and width of the image and logo
